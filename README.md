@@ -1,4 +1,4 @@
-# dbblog_comment
+# cccblog_comment
 dbblog评论仓库，使用gitalk插件 https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 
 ## 原理
